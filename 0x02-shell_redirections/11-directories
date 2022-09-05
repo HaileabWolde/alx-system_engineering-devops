@@ -1,2 +1,2 @@
 #!/bin/bash
-/bin/ls -lA  | egrep -c '^d'
+find -mindepth 1 -type d | wc -l
