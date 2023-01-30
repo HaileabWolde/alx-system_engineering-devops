@@ -22,7 +22,7 @@ do
 
 		17)
 		echo  "$i"
-		echo  "bad luck fro Italy"
+		echo  "bad luck from Italy"
 		((i++))
 		;;
 
